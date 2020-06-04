@@ -10,3 +10,4 @@ edition = "2018"
 rand = "0.7.3"
 ndarray = { version = "0.13.0" }
 ndarray-linalg = { version = "0.12", features = ["openblas"] }
+csv = "1.1.3"
